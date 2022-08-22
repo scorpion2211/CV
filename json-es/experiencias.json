@@ -1,0 +1,155 @@
+[
+  {
+    "empresa": "Tul",
+    "desde": "02/2022",
+    "hasta": "Presente",
+    "ubicacion": "Bogotá · Colombia",
+    "puesto": "Desarrollador Frontend",
+    "referencia": "",
+    "industria": "Seguros",
+    "tareas": "Desarrollar, mantener y reestructurar la web de la empresa.",
+    "tecnologias": "HTML5, BEM SCSS, JS, Angular 11, Jira, Bitbucket",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Experta Seguros",
+    "desde": "02/2022",
+    "hasta": "Presente",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "puesto": "Desarrollador Frontend",
+    "referencia": "",
+    "industria": "Seguros",
+    "tareas": "Desarrollar, mantener y reestructurar una plataforma para el sector de Legales.",
+    "tecnologias": "HTML5, CSS, SCSS, JS, Angular 8, Bootstrap 4, Jira, Openshift, Bitbucket",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Programador Independiente",
+    "desde": "10/2020",
+    "hasta": "Presente",
+    "ubicacion": "GBA Sur, josé Mármol · Argentina",
+    "puesto": "Desarrollador Full-Stack",
+    "referencia": "",
+    "industria": "RR.HH.",
+    "tareas": "Desarrollar y diseñar páginas web, sistemas de gestión y aplicaciones para celulares.",
+    "tecnologias": "HTML5, CSS, SCSS, JS, jQuery, Angular 11/12, IONIC 4, Bootstrap 4/5, PHP 7.x, Angular Material",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Grupo Gestión",
+    "desde": "10/2015",
+    "hasta": "12/2021",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "puesto": "Desarrollador Full-Stack",
+    "referencia": "Leandro Lossani: +54 9 11 6531-4412",
+    "industria": "RR.HH.",
+    "tareas": "Diagramar y desarrollar diversos sistemas webs y apps para celulares para el personal interno de la empresa. Administrar servidor web y base de datos. Actualmente estoy desarrollando un nuevo sistema y mudando los anteriores a Angular 11 manteniendo el backend con PHP 7.",
+    "tecnologias": "HTML5, CSS, SCSS, JS, jQuery, Angular 11/12, IONIC 4, Bootstrap 4/5, PHP 7.x, Angular Material",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Pentacom S.A.",
+    "desde": "12/2011",
+    "hasta": "10/2015",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "puesto": "Soporte Técnico",
+    "referencia": "Juan Sale: +54 9 11 3310-8703",
+    "industria": "Tecnología",
+    "tareas": "Soporte de hardware para el Poder Judicial Nacional. Reparación de computadoras e impresoras.",
+    "tecnologias": "",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Consultora CI-NET",
+    "desde": "07/2011",
+    "hasta": "11/2021",
+    "ubicacion": "GBA Sur, Lomas de Zamora · Argentina",
+    "puesto": "Soporte Técnico",
+    "referencia": "Claudio Hernández: +54 9 11 6254-9250",
+    "industria": "Tecnología",
+    "tareas": "Instalación, configuración y mantenimiento de equipos informáticos, asistencia técnica a personal del cliente de manera remota y on-site.",
+    "tecnologias": "",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Hotel Meliá Recoleta Plaza",
+    "desde": "12/2009",
+    "hasta": "10/2012",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "puesto": "Administrativo",
+    "referencia": "Karina Carbone Nani: +54 9 11 5709-3378",
+    "industria": "Turismo",
+    "tareas": "Control y recepción de mercadería, Logística de depósito, Armado de pedidos, Búsqueda y Cotización de proveedores, Confección de pedido de compra, Alta y baja de facturas en sistema SAP, Saldo de cuenta a proveedores, Control de inventario, Control de facturación (libro mayor de IVA).",
+    "tecnologias": "",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Clases Particulares de Matemática e Informática",
+    "desde": "09/2008",
+    "hasta": "Presente",
+    "ubicacion": "GBA Sur y C.A.B.A.",
+    "puesto": "Profesor Particular",
+    "referencia": "",
+    "industria": "Educación",
+    "tareas": "Clases para nivel primerio, secundario, terciario y universitario.",
+    "tecnologias": "",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Juegos Pensados",
+    "desde": "06/2006",
+    "hasta": "04/2010",
+    "ubicacion": "GBA Sur y C.A.B.A.",
+    "puesto": "Data Entry",
+    "referencia": "Hernán Augusto Arias: +54 9 11 5562-7372",
+    "industria": "Construcción",
+    "tareas": "Ingreso de datos al sistema.",
+    "tecnologias": "",
+    "labels": {
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "tareas": "Tareas"
+    }
+  }
+]
