@@ -30,7 +30,7 @@ xhttp_idiomas.onreadystatechange = function () {
         <li>
           ${x.data.hablado}:
           <span class="bola1"></span>
-          <span class="bola1"></span>
+          <span class="bola2"></span>
           <span class="bola2"></span>
           <span class="bola2"></span>
           <span class="bola2"></span>
@@ -58,9 +58,9 @@ xhttp_personalidad.send();
 xhttp_personalidad.onreadystatechange = function () {
   if (this.readyState == 4 && this.status == 200) {
     list_personalidad = JSON.parse(this.responseText);
-    var personalidad = `<h4 class="fondo_oscuro">${list_personalidad.title}</h4>
+    var personalidad = `<h4 class="">${list_personalidad.title}</h4>
     <div
-      class="flex_column flex_wrap flex_center p-2 fondo_oscuro"
+      class="flex_column flex_wrap flex_center p-2 "
       style="padding-left: 50px !important"
     >`;
     list_personalidad.data.map((x) => {
@@ -80,9 +80,9 @@ xhttp_capacitaciones.send();
 xhttp_capacitaciones.onreadystatechange = function () {
   if (this.readyState == 4 && this.status == 200) {
     list_capacitaciones = JSON.parse(this.responseText);
-    var capacitaciones = `<h4 class="fondo_oscuro">${list_capacitaciones.title}</h4>
+    var capacitaciones = `<h4 class="">${list_capacitaciones.title}</h4>
     <div
-      class="flex_column flex_wrap flex_center p-2 fondo_oscuro"
+      class="flex_column flex_wrap flex_center p-2 "
       style="padding-left: 50px !important"
     >`;
     list_capacitaciones.data.map((x) => {
@@ -151,13 +151,19 @@ xhttp_experiencias.onreadystatechange = function () {
       if (x.tecnologias) {
         flag_tec = `<span><b>${x.labels.tecnologías}: </b> ${x.tecnologias}</span>`;
       }
-      activitys += `<div class="text-left">
+      activitys += `<div class="text-left item-work">
                             <div>
                                 <span style="font-size:22px; font-weight: bold;"><i class="fas fa-building"></i> ${x.empresa}</span> <span>
                                     <i class="fas fa-map-marker-alt" style="margin-left:15px"></i> ${x.ubicacion}</span>
                             </div>
                             <div>
-                                <span><b>${x.labels.fecha}:</b> ${x.desde} - ${x.hasta}</span> · <span><b>Puesto:</b> ${x.puesto}</span>
+                                <span><b>${x.labels.industria}:</b> ${x.industria}</span>
+                            </div>
+                            <div>
+                                <span><b>${x.labels.fecha}:</b> ${x.desde} - ${x.hasta}</span>
+                            </div>
+                            <div>
+                                <span><b>${x.labels.puesto}:</b> ${x.puesto}</span> · <span><b>${x.labels.modalidad}: </b> ${x.modalidad_de_trabajo}</span>
                             </div>
                             <div>
                                 <span><b>${x.labels.tareas}: </b> ${x.tareas}</span>
@@ -168,7 +174,7 @@ xhttp_experiencias.onreadystatechange = function () {
                             <div>
                                 ${flag_ref}
                             </div>
-                        </div> <hr>`;
+                        </div>`;
     });
     $("#experiencias").html(activitys);
   }
@@ -184,7 +190,7 @@ xhttp_educacion.onreadystatechange = function () {
     list_skills = JSON.parse(this.responseText);
     var activitys = "";
     list_skills.map((x) => {
-      activitys += `<div class="text-left">
+      activitys += `<div class="text-left item-edutacion">
             <div>
                 <span style="font-size:22px; font-weight: bold;"><i class="fas fa-graduation-cap"></i> ${x.titulo}</span> · <span>
                 ${x.desde} - ${x.hasta}</span>
@@ -192,7 +198,7 @@ xhttp_educacion.onreadystatechange = function () {
             <div>
                 <span><b>${x.labels.institucion}:</b> ${x.institucion}</span> - <span><b>${x.labels.nivel}:</b> ${x.nivel}</span>
             </div>
-        </div> <hr>`;
+        </div>`;
     });
     $("#educacion").html(activitys);
   }

@@ -10,7 +10,8 @@
 .data-cv {
   background-color: aliceblue;
   padding-bottom: 20px;
-  width: 100%;
+  width: calc(100% - 265px);
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
 }
 
 .flex_10 {
@@ -132,26 +133,37 @@
   align-content: flex-end;
 }
 
+.mis_datos_personales {
+  font-size: 15px;
+}
+
+.mis_datos_personales a {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 1px;
+}
+
 .mis_datos {
   background: #075d8c;
-  background: rgb(2, 0, 36);
+  background: rgb(0, 19, 36);
   background: linear-gradient(
     90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(7, 93, 140, 1) 100%
+    rgba(3, 4, 4, 1) 0%,
+    rgba(49, 62, 68, 1) 100%
   );
   color: #fff !important;
   padding: 20px 0px;
-  width: 262px;
+  width: 263px;
+  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
 }
 
 .h2 {
   background: #075d8c;
-  background: rgb(2, 0, 36);
+  background: rgb(0, 19, 36);
   background: linear-gradient(
-    270deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(7, 93, 140, 1) 100%
+    90deg,
+    rgba(3, 4, 4, 1) 0%,
+    rgba(49, 62, 68, 1) 100%
   );
   line-height: 60px;
   padding: 5px;
@@ -165,11 +177,11 @@ h4 {
 
 .fondo_oscuro {
   background: #075d8c;
-  background: rgb(2, 0, 36);
+  background: rgb(0, 19, 36);
   background: linear-gradient(
-    270deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(7, 93, 140, 1) 100%
+    90deg,
+    rgba(3, 4, 4, 1) 0%,
+    rgba(49, 62, 68, 1) 100%
   );
 }
 
@@ -235,7 +247,16 @@ header {
 }
 
 .title-section {
-  color: #ff9633;
+  color: #9c5900;
   font-weight: bold;
   text-align: left;
+  text-decoration: underline;
+}
+
+.item-edutacion {
+  margin-bottom: 10px;
+}
+
+.item-work {
+  margin-bottom: 15px;
 }

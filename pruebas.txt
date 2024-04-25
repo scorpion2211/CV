@@ -1,0 +1,24 @@
+
+
+git checkout master && git pull origin master && git checkout -b feature/change-location && mkdir public && mv -f index.html public/ && git add . && git commit -m "change-location" && git push origin feature/change-location
+
+
+git checkout develop && git pull origin develop && git checkout -b feature/CAPP-58-delete-event1
+git add . && git commit -m "delete event" && git push origin feature/CAPP-58-delete-event
+
+Descripción
+
+Se elimina el evento
+
+
+
+
+
+Es un agrado de mi parte presentarme ante ustedes, como bien lo indica mi solicitud, mi nombre es Ignacio y trabajo como desarrollador desde hace 8 años, creando aplicaciones desde cero y manteniendo existentes así como capacitando personal. He trabajado solo, en equipo y con personal a cargo y considero que podria brindar un gran aporte al equipo y contribuir con mi experiencia y habilidades.
+Agradezco su consideración y espero tener la oportunidad de hablar con ustedes en una entrevista.
+
+Es un agrado de mi parte presentarme, como bien lo indica mi solicitud, mi nombre es Ignacio y trabajo como desarrollador desde hace 8 años, creando aplicaciones desde cero y manteniendo existentes así como capacitando personal. He trabajado solo, en equipo y con personal a cargo y considero que podria brindar un gran aporte al equipo y contribuir con mi experiencia y habilidades.
+Agradezco su consideración y espero tener la oportunidad de hablar con ustedes en una entrevista.
+
+
+Es un agrado de mi parte presentarme, como bien lo indica mi perfil, mi nombre es Ignacio y trabajo como desarrollador desde hace 8 años. Sería de mucho agrado que puedas tener en cuenta mi perfil

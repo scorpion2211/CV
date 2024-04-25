@@ -1,18 +1,43 @@
 [
   {
+    "empresa": "Clever FT",
+    "desde": "07/2023",
+    "hasta": "03/2023",
+    "ubicacion": "Madrid · Spain / Buenos Aires · Argentina",
+    "modalidad_de_trabajo": "Remote",
+    "puesto": "Frontend Developer",
+    "referencia": "Iván Orgáz: +34 625 320018",
+    "industria": "Technological solutions",
+    "tareas": "Development and maintenance of applications. Train the team for development with Angular",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
+      "referencias": "References",
+      "tecnologías": "Tecnologías",
+      "fecha": "Date",
+      "puesto": "Position",
+      "tareas": "Tasks"
+    }
+  },
+  {
     "empresa": "Tul",
     "desde": "02/2022",
     "hasta": "Present",
     "ubicacion": "Bogotá · Colombia",
+    "modalidad_de_trabajo": "Remote",
     "puesto": "Frontend Developer",
     "referencia": "",
     "industria": "Seguros",
     "tareas": "Develop, maintain and restructure the company's website.",
     "tecnologias": "HTML5, BEM SCSS, JS, Angular 11, Jira, Bitbucket",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -21,15 +46,19 @@
     "desde": "02/2022",
     "hasta": "Present",
     "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "Hybrid (remote/on-site)",
     "puesto": "Frontend Developer",
     "referencia": "",
     "industria": "Insurance",
     "tareas": "Develop, maintain and restructure a platform for the Legal sector.",
     "tecnologias": "HTML5, CSS, SCSS, JS, Angular 8, Bootstrap 4, Jira, Openshift, Bitbucket",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -38,15 +67,19 @@
     "desde": "10/2020",
     "hasta": "Present",
     "ubicacion": "GBA Sur, josé Mármol · Argentina",
+    "modalidad_de_trabajo": "Remote",
     "puesto": "Full-Stack Developer",
     "referencia": "",
     "industria": "Independent",
     "tareas": "Develop and design web pages, management systems and mobile applications.",
     "tecnologias": "HTML5, CSS, SCSS, JS, jQuery, Angular 11/12, IONIC 4, Bootstrap 4/5, PHP 7.x, Angular Material",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -55,15 +88,19 @@
     "desde": "10/2015",
     "hasta": "12/2021",
     "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "Hybrid (remote/on-site)",
     "puesto": "Full-Stack Developer",
     "referencia": "Leandro Lossani: +54 9 11 6531-4412",
     "industria": "Human Resources",
     "tareas": "Design and develop various web systems and mobile apps for the company's internal staff. Administer web server and database. Currently I am developing a new system and moving the previous ones to Angular 11 keeping the backend with PHP 7.",
     "tecnologias": "HTML5, CSS, SCSS, JS, jQuery, Angular 11/12, IONIC 4, Bootstrap 4/5, PHP 7.x, Angular Material",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -72,15 +109,19 @@
     "desde": "12/2011",
     "hasta": "10/2015",
     "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "On-Site",
     "puesto": "Technical Support",
     "referencia": "Juan Sale: +54 9 11 3310-8703",
     "industria": "Technology",
     "tareas": "Hardware support for the National Judicial Branch. Repair of computers and printers.",
     "tecnologias": "",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -89,15 +130,19 @@
     "desde": "07/2011",
     "hasta": "11/2021",
     "ubicacion": "GBA Sur, Lomas de Zamora · Argentina",
+    "modalidad_de_trabajo": "On-Site",
     "puesto": "Technical Support",
     "referencia": "Claudio Hernández: +54 9 11 6254-9250",
     "industria": "Technology",
     "tareas": "Installation, configuration and maintenance of computer equipment, technical assistance to customer personnel remotely and on-site.",
     "tecnologias": "",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -106,15 +151,19 @@
     "desde": "12/2009",
     "hasta": "10/2012",
     "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "On-Site",
     "puesto": "Administrative",
     "referencia": "Karina Carbone Nani: +54 9 11 5709-3378",
     "industria": "Tourism",
     "tareas": "Control and reception of merchandise, Warehouse logistics, Order preparation, Supplier search and quotation, Purchase order preparation, Invoice registration and cancellation in SAP system, Supplier account balance, Inventory control, Invoicing control.",
     "tecnologias": "",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -123,15 +172,19 @@
     "desde": "09/2008",
     "hasta": "Present",
     "ubicacion": "GBA Sur y C.A.B.A.",
+    "modalidad_de_trabajo": "Hybrid (remote/on-site)",
     "puesto": "Private Teacher",
     "referencia": "",
     "industria": "Education",
     "tareas": "Classes for primary, secondary, tertiary and university levels.",
     "tecnologias": "",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   },
@@ -140,15 +193,19 @@
     "desde": "06/2006",
     "hasta": "04/2010",
     "ubicacion": "GBA Sur y C.A.B.A.",
+    "modalidad_de_trabajo": "Hybrid (remote/on-site)",
     "puesto": "Data Entry",
     "referencia": "Hernán Augusto Arias: +54 9 11 5562-7372",
     "industria": "Construction",
     "tareas": "Data Entry",
     "tecnologias": "",
     "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
       "referencias": "References",
       "tecnologías": "Technologies",
       "fecha": "Date",
+      "puesto": "Position",
       "tareas": "Tasks"
     }
   }
