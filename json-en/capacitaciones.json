@@ -2,10 +2,13 @@
   "title": "Training",
   "data": [
     {
-      "name": "Angular 11"
+      "name": "Angular"
     },
     {
-      "name": "IONIC 4"
+      "name": "React"
+    },
+    {
+      "name": "IONIC"
     },
     {
       "name": "Ethical Hacking"

@@ -84,9 +84,9 @@
     }
   },
   {
-    "empresa": "Freelance Developer",
+    "empresa": "Freelance Programmer",
     "desde": "10/2020",
-    "hasta": "12/2023",
+    "hasta": "Present",
     "ubicacion": "GBA Sur, josé Mármol · Argentina",
     "modalidad_de_trabajo": "Remote",
     "puesto": "Full-Stack Developer",
@@ -126,6 +126,69 @@
     }
   },
   {
+    "empresa": "Pentacom S.A.",
+    "desde": "12/2011",
+    "hasta": "10/2015",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "On-Site",
+    "puesto": "Technical Support",
+    "referencia": "Juan Sale: +54 9 11 3310-8703",
+    "industria": "Technology",
+    "tareas": "Hardware support for the National Judicial Branch. Repair of computers and printers.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
+      "referencias": "References",
+      "tecnologías": "Technologies",
+      "fecha": "Date",
+      "puesto": "Position",
+      "tareas": "Tasks"
+    }
+  },
+  {
+    "empresa": "Consultora CI-NET",
+    "desde": "07/2011",
+    "hasta": "11/2021",
+    "ubicacion": "GBA Sur, Lomas de Zamora · Argentina",
+    "modalidad_de_trabajo": "On-Site",
+    "puesto": "Technical Support",
+    "referencia": "Claudio Hernández: +54 9 11 6254-9250",
+    "industria": "Technology",
+    "tareas": "Installation, configuration and maintenance of computer equipment, technical assistance to customer personnel remotely and on-site.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
+      "referencias": "References",
+      "tecnologías": "Technologies",
+      "fecha": "Date",
+      "puesto": "Position",
+      "tareas": "Tasks"
+    }
+  },
+  {
+    "empresa": "Hotel Meliá Recoleta Plaza",
+    "desde": "12/2009",
+    "hasta": "10/2012",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "On-Site",
+    "puesto": "Administrative",
+    "referencia": "Karina Carbone Nani: +54 9 11 5709-3378",
+    "industria": "Tourism",
+    "tareas": "Control and reception of merchandise, Warehouse logistics, Order preparation, Supplier search and quotation, Purchase order preparation, Invoice registration and cancellation in SAP system, Supplier account balance, Inventory control, Invoicing control.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
+      "referencias": "References",
+      "tecnologías": "Technologies",
+      "fecha": "Date",
+      "puesto": "Position",
+      "tareas": "Tasks"
+    }
+  },
+  {
     "empresa": "Private Mathematics and Computer Science Classes",
     "desde": "09/2008",
     "hasta": "Present",
@@ -135,6 +198,27 @@
     "referencia": "",
     "industria": "Education",
     "tareas": "Classes for primary, secondary, tertiary and university levels.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modality",
+      "industria": "Industry",
+      "referencias": "References",
+      "tecnologías": "Technologies",
+      "fecha": "Date",
+      "puesto": "Position",
+      "tareas": "Tasks"
+    }
+  },
+  {
+    "empresa": "Juegos Pensados",
+    "desde": "06/2006",
+    "hasta": "04/2010",
+    "ubicacion": "GBA Sur y C.A.B.A.",
+    "modalidad_de_trabajo": "Hybrid (remote/on-site)",
+    "puesto": "Data Entry",
+    "referencia": "Hernán Augusto Arias: +54 9 11 5562-7372",
+    "industria": "Construction",
+    "tareas": "Data Entry",
     "tecnologias": "",
     "labels": {
       "modalidad": "Modality",

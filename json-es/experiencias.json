@@ -70,7 +70,7 @@
     "modalidad_de_trabajo": "Híbrido (remoto/on-site)",
     "puesto": "Desarrollador Frontend",
     "referencia": "",
-    "industria": "Seguros",
+    "industria": "Insurance",
     "tareas": "Desarrollar, mantener y reestructurar una plataforma para el sector de Legales.",
     "tecnologias": "HTML5, CSS, SCSS, JS, Angular 8, Bootstrap 4, Jira, Openshift, Bitbucket",
     "labels": {
@@ -86,7 +86,7 @@
   {
     "empresa": "Programador Independiente",
     "desde": "10/2020",
-    "hasta": "Presente",
+    "hasta": "12/2023",
     "ubicacion": "GBA Sur, josé Mármol · Argentina",
     "modalidad_de_trabajo": "Remoto",
     "puesto": "Desarrollador Full-Stack",
