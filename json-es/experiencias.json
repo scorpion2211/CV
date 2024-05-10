@@ -29,7 +29,7 @@
     "puesto": "Profesor",
     "referencia": "",
     "industria": "Educación",
-    "tareas": "Dictado de clases de progrmación",
+    "tareas": "Dictado de clases de programación",
     "tecnologias": "",
     "labels": {
       "modalidad": "Modadlidad",
@@ -44,7 +44,7 @@
   {
     "empresa": "Tul",
     "desde": "02/2022",
-    "hasta": "Presente",
+    "hasta": "04/2024",
     "ubicacion": "Bogotá · Colombia",
     "modalidad_de_trabajo": "Remoto",
     "puesto": "Desarrollador Frontend",
@@ -135,6 +135,48 @@
     "referencia": "",
     "industria": "Educación",
     "tareas": "Clases para nivel primerio, secundario, terciario y universitario.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modadlidad",
+      "industria": "Industria",
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "puesto": "Puesto",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Pentacom S.A.",
+    "desde": "12/2011",
+    "hasta": "10/2015",
+    "ubicacion": "Buenos Aires, Capital Federal · Argentina",
+    "modalidad_de_trabajo": "on-site",
+    "puesto": "Soporte Técnico",
+    "referencia": "Juan Sale: +54 9 11 3310-8703",
+    "industria": "Tecnología",
+    "tareas": "Soporte de hardware para el Poder Judicial Nacional. Reparación de computadoras e impresoras.",
+    "tecnologias": "",
+    "labels": {
+      "modalidad": "Modadlidad",
+      "industria": "Industria",
+      "referencias": "Referencias",
+      "tecnologías": "Tecnologías",
+      "fecha": "Fecha",
+      "puesto": "Puesto",
+      "tareas": "Tareas"
+    }
+  },
+  {
+    "empresa": "Consultora CI-NET",
+    "desde": "07/2011",
+    "hasta": "11/2021",
+    "ubicacion": "GBA Sur, Lomas de Zamora · Argentina",
+    "modalidad_de_trabajo": "on-site",
+    "puesto": "Soporte Técnico",
+    "referencia": "Claudio Hernández: +54 9 11 6254-9250",
+    "industria": "Tecnología",
+    "tareas": "Instalación, configuración y mantenimiento de equipos informáticos, asistencia técnica a personal del cliente de manera remota y on-site.",
     "tecnologias": "",
     "labels": {
       "modalidad": "Modadlidad",
